@@ -1,1 +1,0 @@
-PUT ETH ADDY & Private Key in 0xMineableTokenMiner.conf file
